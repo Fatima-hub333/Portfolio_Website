@@ -4,7 +4,7 @@
 
 > Personal Portfolio Website
 
-This is a Portfolio Website which shares details about my projects, my skills, my technical stacks information &amp; all.
+This is a Portfolio Website which shares details about my projects, my skills, my technical stacks information &amp; all. This website use CSS custom properties to be as customizable as possible, Use Flexbox & Grid.
 
 <!-- ![screenshot](images/base/Capstone-1.png) -->
 
