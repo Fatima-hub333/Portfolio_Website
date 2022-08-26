@@ -167,6 +167,7 @@ nav { display: none; }
   height: 1px;
   margin: 0.5em auto 1em;
   background-color: var(--clr-light);
+  opacity: 0.25;
 }
 
 
